@@ -1,0 +1,6 @@
+.card-content-box {
+  block-size: fit-content;
+  background-color: var(--card-content-box-background-color);
+  border-radius: var(--card-content-box-border-radius);
+  box-shadow: 0px 0px 2px 6px var(--card-content-box-box-shadow-color);
+}

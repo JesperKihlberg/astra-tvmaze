@@ -1,0 +1,10 @@
+.info-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+  margin-left: 40px;
+  margin-right: 40px;
+  max-width: 800px;
+  padding: 40px;
+}

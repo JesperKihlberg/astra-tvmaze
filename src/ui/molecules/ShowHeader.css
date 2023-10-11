@@ -1,0 +1,19 @@
+.show-card-header-container {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.show-card-title {
+  flex: 2;
+  padding-left: 8px;
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+  width: 100%;
+}
+.show-card-network-running {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}

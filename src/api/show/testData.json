@@ -1,0 +1,57 @@
+{
+  "id": 45145,
+  "url": "https://www.tvmaze.com/shows/45145/dna",
+  "name": "DNA",
+  "type": "Scripted",
+  "language": "Danish",
+  "genres": ["Drama", "Crime", "Mystery"],
+  "status": "To Be Determined",
+  "runtime": 45,
+  "averageRuntime": 45,
+  "premiered": "2019-09-09",
+  "ended": null,
+  "officialSite": "https://tv.tv2.dk/dna",
+  "schedule": {
+    "time": "20:00",
+    "days": ["Monday"]
+  },
+  "rating": {
+    "average": 8.1
+  },
+  "weight": 87,
+  "network": {
+    "id": 322,
+    "name": "TV2",
+    "country": {
+      "name": "Denmark",
+      "code": "DK",
+      "timezone": "Europe/Copenhagen"
+    },
+    "officialSite": null
+  },
+  "webChannel": null,
+  "dvdCountry": {
+    "name": "Denmark",
+    "code": "DK",
+    "timezone": "Europe/Copenhagen"
+  },
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 368725,
+    "imdb": "tt9472282"
+  },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/276/690503.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/276/690503.jpg"
+  },
+  "summary": "<p>Five years after his daughters disappearance Danish police officer Rolf discovers a fatal flaw in the DNA database and might finally be able to find his daughter.</p>",
+  "updated": 1693594561,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/45145"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/2477686"
+    }
+  }
+}

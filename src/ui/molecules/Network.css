@@ -1,0 +1,9 @@
+.network-container {
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  text-decoration: none;
+}
+.network-container img {
+  margin-left: 5px;
+}

@@ -1,0 +1,24 @@
+.brand-container {
+  display: flex;
+  width: 250px;
+  align-items: center;
+  padding-right: 20px;
+  color: var(--brand-text-color);
+}
+
+.logo {
+  color: var(--brand-text-color);
+  padding: 4px 3px 0px 4px;
+  border-radius: 8px;
+  background-color: var(--brand-color);
+  box-shadow: 0px 0px 4px 4px var(--brand-box-shadow-color);
+}
+
+.brand-container h1 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1;
+  margin: 6px 0 6px 10px;
+  display: inline-block;
+  vertical-align: top;
+}

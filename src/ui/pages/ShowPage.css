@@ -1,0 +1,21 @@
+.show-page {
+  align-items: center;
+  margin: 24px;
+  max-width: 800px;
+  width: 80%;
+}
+.show-page-main-content {
+  margin-top: 16px;
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.show-page-main-content img {
+  flex: 1;
+  margin-right: 16px;
+}
+.show-page-main-content p {
+  flex: 2;
+  min-width: 200px;
+  margin-top: 0;
+}

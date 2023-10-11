@@ -1,0 +1,14 @@
+html {
+  background-color: var(--main-background-color);
+}
+body {
+  font-family: "Nunito", Tofu;
+}
+
+.container {
+  display: flex;
+  padding-top: 90px;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}

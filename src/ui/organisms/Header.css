@@ -1,0 +1,35 @@
+.header {
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 5px 20px 0px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background-color: var(--header-background-color);
+  box-shadow: 0px 0px 11px 13px var(--header-background-color);
+}
+
+.header-center {
+  position: relative;
+  padding: 10px 0;
+  margin-right: 40px;
+  padding-right: 10px;
+  flex-grow: 1;
+  min-width: 230px;
+  text-align: center;
+}
+.header-right {
+  width: 250px;
+}
+.header button + button {
+  margin-left: 10px;
+}
+
+.header .welcome {
+  color: #333;
+  font-size: 14px;
+  margin-right: 10px;
+}
