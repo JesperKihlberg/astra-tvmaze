@@ -19,7 +19,7 @@ To get a local copy up and running follow these steps.
 ### Prerequisites
 
 - Node.js (version 12 or higher)
-- Yarn (version 1 or higher)
+- NPM (version 6 or higher)
   Installation
   Clone the repository:
 
